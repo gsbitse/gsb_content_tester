@@ -1,0 +1,6 @@
+name = GSB Content Tester
+core = 7.x
+package = GSB
+version = "3.1"
+project = gsb_content_tester
+
